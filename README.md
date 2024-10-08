@@ -12,7 +12,7 @@ This project explores the relationship between median household income and schoo
 - **Future Research:** Suggestions for further studies to explore income and school performance relationships.
 
 For detailed analysis and visualizations, please refer to the project file:
-[Project File](https://github.com/ijwat/gis-research-project/blob/main/rp.md)
+[Project File](https://github.com/ijwat/gis-research-project/blob/main/research.md)
 
 
 
